@@ -1,0 +1,22 @@
+PODS:
+  - JSQMessagesViewController (7.3.4)
+
+DEPENDENCIES:
+  - JSQMessagesViewController (from `https://github.com/jessesquires/JSQMessagesViewController.git`, branch `develop`)
+
+EXTERNAL SOURCES:
+  JSQMessagesViewController:
+    :branch: develop
+    :git: https://github.com/jessesquires/JSQMessagesViewController.git
+
+CHECKOUT OPTIONS:
+  JSQMessagesViewController:
+    :commit: ac02366afec213311c47d0e4d752402795b14b49
+    :git: https://github.com/jessesquires/JSQMessagesViewController.git
+
+SPEC CHECKSUMS:
+  JSQMessagesViewController: c11b9e77372ab72c45c67311f6da7342e32df1e8
+
+PODFILE CHECKSUM: 33bdd0bbde5dc9fc71ebee34f1c7b6914ae8ae89
+
+COCOAPODS: 1.0.1
